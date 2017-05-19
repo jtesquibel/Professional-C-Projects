@@ -1,0 +1,10 @@
+test_wall ; personal test file 1
+goto,5
+rotate,1
+attack
+ranged_attack
+rotate,0
+je,9
+attack
+test_zombie
+goto,1
